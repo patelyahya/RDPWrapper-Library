@@ -7,4 +7,4 @@
 ## 6. Open the Folder
 ## 7. Click on "install.bat"
 ## 8. Click on "RDPCheck.exe" to check whether it is working or not..
-## 9. to uninistall, Click "uninstall.bat"
+## 9. to uninstall, Click "uninstall.bat"
