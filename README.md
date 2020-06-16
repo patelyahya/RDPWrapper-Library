@@ -1,4 +1,4 @@
-# rdp-wrapper16-win7-10
+# RDP-wrapper16
 ## 1. Clone or download this repo.
 ## 2. Click on the downloaded zip.
 ## 3. Click on the folder named "rdp-wrapper16-win7-10-master"
